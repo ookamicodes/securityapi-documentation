@@ -22,7 +22,7 @@ The bot also helps in area of Development & Cybersecurity.
 
 #### Links
 
-- Discord Server: [<img src="https://discordapp.com/api/guilds/748588988738306219/widget.json">](https://discord.gg/5sBDQKN)
+- Discord Server: [<img src="https://discordapp.com/api/guilds/748588988738306219/widget.png">](https://discord.gg/5sBDQKN)
 
 
 - Bot lists:
