@@ -5,7 +5,11 @@ A documentation about SecurityAPI (a discord bot).
 
 - Information
 
+- ToS
+
 - Functions
+
+- Commands
 
 - Setup
 
@@ -30,6 +34,32 @@ The bot also helps in area of Development & Cybersecurity.
 - Bot lists: [botlist.space](https://botlist.space/bot/748562664200077342) - [discordbotlist](https://discordbotlist.com/bots/securityapi) - [discordextremelist](https://discordextremelist.xyz/en-US/bots/748562664200077342) - [ayblisting](https://ayblisting.com/bots/748562664200077342)
 
 - Website: soon
+
+## Terms of Service
+
+_*Bot Tos & Privacy Policy*_
+
+*ToS*
+- Exploitation of the system.
+- Violation of Discord TOS.
+- Exploitation of the API/BOT.
+- The use of Bots or Scripts (also against Discords TOS).
+- Trying to DDoS the API/BOT
+- Spaming on the API/BOT
+​
+*Privacy Policy*
+
+_DATA COLLECTION_
+1) This bot will log if he joins a server | guild name.
+2) SecurityAPI logs if he found a IP-Logger/Exploit Script | Username & Reason.
+3) SecurityAPI will log if someone used the s!invite command | Username.
+
+_DATA USAGE_
+1) SecurityAPI will automatic remove all console logs. No data will be saved in a database.
+2) SecurityAPI will log invite command & joined guild to make sure in wich target group the bot is. It also log Auto-mod actions.
+3) Only the highest Developer can access bot logs.
+
+Have any concerns? Join our [Support Server](https://discord.gg/5sBDQKN).
 
 ## Functions
 
