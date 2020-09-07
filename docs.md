@@ -12,7 +12,7 @@ A documentation about SecurityAPI (a discord bot).
 - Coming soon
 
 
-### Information
+## Information
 
 SecurityAPI is an Discors Bot specialized of the security from a server.
 He defense attacks like spam/raids.
@@ -22,13 +22,14 @@ The bot also helps in area of Development & Cybersecurity.
 
 #### Links
 
-- Discord Server:
+- Discord Server: [<img src="https://discordapp.com/api/guilds/748588988738306219/widget.json">](https://discord.gg/5sBDQKN)
+
 
 - Bot lists:
 
 - Website: soon
 
-### Functions
+## Functions
 
 Functions|Description|
 |-------|-----------|
@@ -37,7 +38,7 @@ Functions|Description|
 |Anti IP-Logger|To secure users on a server: SecurityAPI will detect and delete IP-Loggers from a lot Providers (& there url shrinks) to make sure, no datas will be leaked.|
 >soon more
 
-### Commands
+## Commands
 Commands|Description|
 |-------|-----------|
 |help|Shows all commands from SecurityAPI|
@@ -52,15 +53,14 @@ Commands|Description|
 
 > Prefix = `s!`
 
-### Setup
+## Setup
 
 [ SecurityAPI is really easy to setup but i will introduce here how to do that. ]
 
 To setup the bot and become more information type: ``` s!config```. Under the config help you will see `s!muteconfig`. This is a introducion how to setup the anti spam&raid.
 
-`
-Make a role named "Muted". Give that role no permission to "send message" for every channel/directory. The Bot will detect the role automatic. After that you dont need to do something else. This message will come even if you've already done everything.
-`
+
+Make a role named "Muted". Set that role permission "send message" to false. The Bot will detect the role automatic. After that you dont need to do something else. This message will come even if you've already done everything.
 
 
 
