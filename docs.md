@@ -1,5 +1,5 @@
 # securityapi-documentation
-A documentation about SecurityAPI (a discord bot).
+A documentation about SecurityAPI (a discord bot).                           <img src="other/pics/SecurityApiIcon.png?raw=true">
 
 ## Contents
 
