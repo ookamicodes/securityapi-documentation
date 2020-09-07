@@ -57,7 +57,7 @@ _DATA COLLECTION_
 
 _DATA USAGE_
 1) SecurityAPI will automatic remove all console logs. No data will be saved in a database.
-2) SecurityAPI will log invite command & joined guild to make sure in wich target group the bot is. It also log Auto-mod actions.
+2) SecurityAPI will log invite command & joined guild to make sure in which target group the bot is. It also log Auto-mod actions.
 3) Only the highest Developer can access bot logs.
 
 Have any concerns? Join our [Support Server](https://discord.gg/5sBDQKN).
@@ -94,7 +94,7 @@ Commands|Description|
 To setup the bot and become more information type: ``` s!config```. Under the config help you will see `s!muteconfig`. This is a introducion how to setup the anti spam&raid.
 
 
-Make a role named "Muted". Set that role permission "send message" to false. The bot will detect the role automatic. ** "Muted" needs the capital letter "M" **
+Make a role named "Muted". Set that role permission "send message" to false. The bot will detect the role automatic. "Muted" needs the capital letter "M" 
 After that you dont need to do anything else. This message will show up even if you've already done everything.
 
 <img src="other/pics/mutedrole1.PNG?raw=true">
