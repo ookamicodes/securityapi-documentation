@@ -75,9 +75,9 @@ After that you dont need to do something else. This message will come even if yo
 We have already planned many things and would like to proudly show and explain what we have in mind.
 
 - Unsecure Website Scanners | Can detect websites that are unsecure (like pishing).
-  1 For that we will do an submit command when if you found an unsecure website you can tell us and we add it.
-    2 Everything is based on reactions.
-      3 It will take sometimes to make a database with unsecure websites.
+  - For that we will do an submit command when if you found an unsecure website you can tell us and we add it.
+    - Everything is based on reactions.
+      - It will take sometimes to make a database with unsecure websites.
 
 - Logs | Will log actions like muted member.
 
