@@ -18,7 +18,7 @@ A documentation about SecurityAPI (a discord bot).
 
 ## Information
 
-SecurityAPI is an Discors Bot specialized of the security from a server.
+SecurityAPI is an Discord Bot specialized of the security from a server.
 He defense attacks like spam/raids.
 SecurityAPI also scans for Exploits Scripts & IP-Logger.
 Soon he will detect unsecure websites.
