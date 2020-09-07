@@ -22,6 +22,8 @@ The bot also helps in area of Development & Cybersecurity.
 
 #### Links
 
+- Bot Invite: [SecurityAPI Invite](https://discord.com/api/oauth2/authorize?client_id=748562664200077342&permissions=8&scope=bot)
+
 - Discord Server: [<img src="https://discordapp.com/api/guilds/748588988738306219/widget.png">](https://discord.gg/5sBDQKN)
 
 
@@ -48,7 +50,7 @@ Commands|Description|
 |api| API information|
 |meme| Get amazing memes|
 |config| Shows all config options.|
-|muteconfig | Setup anti spam&rais.|
+|muteconfig | Setup anti spam&raid.|
 |bin | Shows bins for your code.|
 
 > Prefix = `s!`
