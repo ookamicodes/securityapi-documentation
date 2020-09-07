@@ -1,11 +1,11 @@
 # SecurityAPI-Documentation
-A documentation about SecurityAPI (a discord bot).                           
+A documentation about SecurityAPI (a Discord bot).                           
 <img src="other/pics/SecurityApiIcon.png?raw=true">
 ## Contents
 
 - Information
 
-- ToS
+- Terms of Service
 
 - Functions
 
@@ -18,7 +18,7 @@ A documentation about SecurityAPI (a discord bot).
 
 ## Information
 
-SecurityAPI is an Discord Bot specialized of the security from a server.
+SecurityAPI is an Discord bot specialized of the security from a server.
 He defense attacks like spam/raids.
 SecurityAPI also scans for Exploits Scripts & IP-Logger.
 Soon he will detect unsecure websites.
@@ -42,10 +42,10 @@ The bot also helps in area of Development & Cybersecurity.
 **ToS**
 - Exploitation of the system.
 - Violation of Discord TOS.
-- Exploitation of the API/BOT.
-- The use of Bots or Scripts (also against Discords TOS).
-- Trying to DDoS the API/BOT
-- Spaming on the API/BOT
+- Exploitation of the BOT.
+- The use of bots or Scripts (also against Discords TOS).
+- Trying to DDoS the BOT
+- Spaming on the BOT
 ​
 **Privacy Policy**
 
@@ -67,7 +67,7 @@ Functions|Description|
 |-------|-----------|
 |Anti Spam&Raid|SecurityAPI can detect Spam&Raid attacks and will defense them.|
 |Anti Exploit Scripst|Each day comes more and more scammers that want information (like password, payments) about a person. SecurityAPI can detect these Scripts and delete them.|
-|Anti IP-Logger|To secure users on a server: SecurityAPI will detect and delete IP-Loggers from a lot Providers (& there url shrinks) to make sure no data will be leaked.|
+|Anti IP-Logger|To secure users on a server, SecurityAPI will detect and delete IP-Loggers from a lot Providers (& there url shrinks) to make sure no data will be leaked.|
 >soon more
 
 ## Commands
@@ -93,8 +93,8 @@ Commands|Description|
 To setup the bot and become more information type: ``` s!config```. Under the config help you will see `s!muteconfig`. This is a introducion how to setup the anti spam&raid.
 
 
-Make a role named "Muted". Set that role permission "send message" to false. The Bot will detect the role automatic. ** "Muted" needs the capital letter "M" **
-After that you dont need to do something else. This message will come even if you've already done everything.
+Make a role named "Muted". Set that role permission "send message" to false. The bot will detect the role automatic. ** "Muted" needs the capital letter "M" **
+After that you dont need to do anything else. This message will show up even if you've already done everything.
 
 <img src="other/pics/mutedrole1.PNG?raw=true">
 
@@ -105,7 +105,7 @@ After that you dont need to do something else. This message will come even if yo
 We have already planned many things and would like to proudly show and explain what we have in mind.
 
 - Unsecure Website Scanners | Can detect websites that are unsecure (like phishing).
-  - For that we will do an submit command when if you found an unsecure website you can tell us and we add it.
+  - For that we will do an submit command whenever you found an unsecure website you can tell us and we add it.
     - Everything is based on reactions.
       - It will take sometimes to make a database with unsecure websites.
 
