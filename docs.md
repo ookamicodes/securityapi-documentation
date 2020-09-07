@@ -37,9 +37,9 @@ The bot also helps in area of Development & Cybersecurity.
 
 ## Terms of Service
 
-_*Bot Tos & Privacy Policy*_
+**Bot Tos & Privacy Policy**
 
-*ToS*
+**ToS**
 - Exploitation of the system.
 - Violation of Discord TOS.
 - Exploitation of the API/BOT.
@@ -47,7 +47,7 @@ _*Bot Tos & Privacy Policy*_
 - Trying to DDoS the API/BOT
 - Spaming on the API/BOT
 ​
-*Privacy Policy*
+**Privacy Policy**
 
 _DATA COLLECTION_
 1) This bot will log if he joins a server | guild name.
