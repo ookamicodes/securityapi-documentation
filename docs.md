@@ -24,7 +24,7 @@ SecurityAPI also scans for Exploits Scripts & IP-Logger.
 Soon he will detect unsecure websites.
 The bot also helps in area of Development & Cybersecurity.
 
-#### Links
+### Links
 
 - Bot Invite: [SecurityAPI Invite](https://discord.com/api/oauth2/authorize?client_id=748562664200077342&permissions=8&scope=bot)
 
@@ -46,7 +46,6 @@ The bot also helps in area of Development & Cybersecurity.
 - The use of bots or Scripts (also against Discords TOS).
 - Trying to DDoS the BOT
 - Spaming on the BOT
-​
 
 **Privacy Policy**
 
@@ -69,7 +68,7 @@ Functions|Description|
 |Anti Spam&Raid|SecurityAPI can detect Spam&Raid attacks and will defense them.|
 |Anti Exploit Scripst|Each day comes more and more scammers that want information (like password, payments) about a person. SecurityAPI can detect these Scripts and delete them.|
 |Anti IP-Logger|To secure users on a server, SecurityAPI will detect and delete IP-Loggers from a lot Providers (& there url shrinks) to make sure no data will be leaked.|
->soon more
+> soon more
 
 ## Commands
 Commands|Description|
@@ -89,7 +88,7 @@ Commands|Description|
 
 ## Setup
 
-[ SecurityAPI is really easy to setup but i will introduce here how to do that. ]
+SecurityAPI is really easy to setup but I will introduce here how to do that.
 
 To setup the bot and become more information type: ``` s!config```. Under the config help you will see `s!muteconfig`. This is a introducion how to setup the anti spam&raid.
 
@@ -107,10 +106,10 @@ We have already planned many things and would like to proudly show and explain w
 
 - Unsecure Website Scanners | Can detect websites that are unsecure (like phishing).
   - For that we will do an submit command whenever you found an unsecure website you can tell us and we add it.
-    - Everything is based on reactions.
-      - It will take sometimes to make a database with unsecure websites.
+  - Everything is based on reactions.
+  - It will take sometimes to make a database with unsecure websites.
 
-- Logs | Will log actions like muted member.
+- Logs | Will log actions like muting members.
 
 
 
