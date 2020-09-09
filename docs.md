@@ -65,15 +65,15 @@ Have any concerns? Join our [Support Server](https://discord.gg/5sBDQKN).
 
 Functions|Description|
 |-------|-----------|
+|URL Scanner|SecurityAPI can detect URL and scans these if they are phishig/malwares/scam Websites/URL. (BETA)|
 |Anti Spam&Raid|SecurityAPI can detect Spam&Raid attacks and will defense them.|
-|Anti Exploit Scripst|Each day comes more and more scammers that want information (like password, payments) about a person. SecurityAPI can detect these Scripts and delete them.|
-|Anti IP-Logger|To secure users on a server, SecurityAPI will detect and delete IP-Loggers from a lot Providers (& there url shrinks) to make sure no data will be leaked.|
 > soon more
 
 ## Commands
 Commands|Description|
 |-------|-----------|
 |help|Shows all commands from SecurityAPI|
+|scan|Shows how to interpret the scanner.|
 |vote|Vote our bot.|
 |function|Shows all functions of the SecurityAPI.|
 |server| Server information|
@@ -107,7 +107,7 @@ We have already planned many things and would like to proudly show and explain w
 - Unsecure Website Scanners | Can detect websites that are unsecure (like phishing).
   - For that we will do an submit command whenever you found an unsecure website you can tell us and we add it.
   - Everything is based on reactions.
-  - It will take sometimes to make a database with unsecure websites.
+  - It will take sometimes to make a database with unsecure websites. `now finished 09.09.2020`
 
 - Logs | Will log actions like muting members.
 
