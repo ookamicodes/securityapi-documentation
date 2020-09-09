@@ -89,7 +89,7 @@ Commands|Description|
 ## URL Scanner
 
 **How its works:**
- SecurityAPI will compare the URL with the database. If this link is received in the DB, it means that this URL is a phishing / iplogger / malware / scam / virus URL. The scan results are made by reactions.
+ SecurityAPI will compare the URL with the database. If this link is received in the DB, it means that this URL is a unsecure/malwares/iploggers/virus/phishing/scam URL. The scan results are made by reactions.
 
 **Reaction Interpretation**
 - 🔍: The URL is being scanned.
