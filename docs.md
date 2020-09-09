@@ -11,6 +11,8 @@ A documentation about SecurityAPI (a Discord bot).
 
 - Commands
 
+- URL Scanner
+
 - Setup
 
 - Coming soon
@@ -20,8 +22,7 @@ A documentation about SecurityAPI (a Discord bot).
 
 SecurityAPI is an Discord bot specialized of the security from a server.
 He defense attacks like spam/raids.
-SecurityAPI also scans for Exploits Scripts & IP-Logger.
-Soon he will detect unsecure websites.
+SecurityAPI got an URL Scanner to make sure a URL is secure.
 The bot also helps in area of Development & Cybersecurity.
 
 ### Links
@@ -51,8 +52,7 @@ The bot also helps in area of Development & Cybersecurity.
 
 _DATA COLLECTION_
 1) This bot will log if he joins a server | guild name.
-2) SecurityAPI logs if he found a IP-Logger/Exploit Script | Username & Reason.
-3) SecurityAPI will log if someone used the s!invite command | Username.
+2) SecurityAPI will log if someone used the s!invite command | Username.
 
 _DATA USAGE_
 1) SecurityAPI will automatic remove all console logs. No data will be saved in a database.
@@ -65,7 +65,7 @@ Have any concerns? Join our [Support Server](https://discord.gg/5sBDQKN).
 
 Functions|Description|
 |-------|-----------|
-|URL Scanner|SecurityAPI can detect URL and scans these if they are phishig/malwares/scam Websites/URL. (BETA)|
+|URL Scanner|SecurityAPI can detect URL and scans these if they are iplogger/virus/unsecure/phishing/malwares/scam Websites/URL. (BETA)|
 |Anti Spam&Raid|SecurityAPI can detect Spam&Raid attacks and will defense them.|
 > soon more
 
@@ -85,6 +85,20 @@ Commands|Description|
 
 > Prefix = `s!`
 > Example = `s!help`
+
+## URL Scanner
+
+**How its works:**
+ SecurityAPI will compare the URL with the database. If this link is received in the DB, it means that this URL is a phishing / iplogger / malware / scam / virus URL. The scan results are made by reactions.
+
+**Reaction Interpretation**
+- 🔍: The URL is being scanned.
+
+- 🟥: The URL is a malware/virus/iplogger/scam/phishing URL.
+
+- 🟨: The URL is unsecure (http) or is a URL Shrink.
+
+- If there is no longer any visible reaction, it means that the URL is not a threat.
 
 ## Setup
 
