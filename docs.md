@@ -100,6 +100,16 @@ Commands|Description|
 
 - If there is no longer any visible reaction, it means that the URL is not a threat.
 
+**Registered**
+
+- Phishing/scam: 400+
+
+- Malwares/Virus: 13 *(in progress)*
+
+- URL Shrinks: 10
+
+- IP-Logger: 4
+
 ## Setup
 
 SecurityAPI is really easy to setup but I will introduce here how to do that.
