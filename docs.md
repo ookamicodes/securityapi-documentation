@@ -127,6 +127,17 @@ After that you dont need to do anything else. This message will show up even if 
 
 ## Badges
 
+#### botlist.space
+
+<img src="https://botlist.space/bot/748562664200077342/badge?property=tag">
+<img src="https://botlist.space/bot/748562664200077342/badge?property=support">
+<img src="https://botlist.space/bot/748562664200077342/badge?property=approved">
+<img src="https://botlist.space/bot/748562664200077342/badge?property=status">
+<img src="https://botlist.space/bot/748562664200077342/badge?property=library">
+<img src="https://botlist.space/bot/748562664200077342/badge?property=owner">
+<img src="https://botlist.space/bot/748562664200077342/badge?property=tags">
+<img src="https://botlist.space/bot/748562664200077342/badge?property=prefix">
+<img src="https://botlist.space/bot/748562664200077342/badge?property=uptime.2">
 <img src="https://botlist.space/bot/748562664200077342/badge?property=tag">
 
 
