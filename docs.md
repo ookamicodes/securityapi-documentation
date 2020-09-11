@@ -106,6 +106,12 @@ Commands|Description|
 
 - 🟨: The URL is unsecure (http) or is a URL Shrink.
 
+- 🟥 + 💳: The URL is a scamming Website.
+
+- 🟥 + 🦠: The URL is a malware/virus Website.
+
+- 🟨 + 🔓: The URL doesnt have a secure connection.
+
 - If there is no longer any visible reaction, it means that the URL is not a threat.
 
 **Registered**
