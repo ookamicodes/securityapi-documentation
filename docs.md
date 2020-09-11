@@ -1,6 +1,6 @@
 # SecurityAPI-Documentation
 A documentation about SecurityAPI (a Discord bot).                           
-<img src="other/pics/SecurityApiIcon.png?raw=true">
+[![SecurityAPI's Widget](https://api.botlist.space/widget/748562664200077342/5 "SecurityAPI's Widget")](https://botlist.space/bot/748562664200077342?utm_source=bls&utm_medium=widget&utm_campaign=748562664200077342)
 ## Contents
 
 - Information
