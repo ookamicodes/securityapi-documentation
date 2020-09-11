@@ -1,8 +1,7 @@
 # SecurityAPI-Documentation
 A documentation about SecurityAPI (a Discord bot).                           
 [![SecurityAPI's Widget](https://api.botlist.space/widget/748562664200077342/5 "SecurityAPI's Widget")](https://botlist.space/bot/748562664200077342?utm_source=bls&utm_medium=widget&utm_campaign=748562664200077342)
-<script src="https://discordbotlist.com/widget/index.js" async></script>
-<dbl-widget bot-id="748562664200077342"></dbl-widget>
+
 ## Contents
 
 - Information
