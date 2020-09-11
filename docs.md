@@ -107,7 +107,7 @@ Commands|Description|
 
 - Malwares/Virus: 13 *(in progress)*
 
-- URL Shrinks: 10
+- URL Shrinks: 12
 
 - IP-Logger: 16
 
