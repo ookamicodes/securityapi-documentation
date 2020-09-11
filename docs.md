@@ -8,7 +8,7 @@ A documentation about SecurityAPI (a Discord bot).
 
 - [Terms of Service](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#terms-of-service)
 
-- [Staff Application / unpaid!]()
+- [Staff Application / unpaid!](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#staff-application)
 
 - [Functions](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#functions)
 
