@@ -16,7 +16,7 @@ A documentation about SecurityAPI (a Discord bot).
 
 - Setup
 
-- Coming soon
+- Badges
 
 
 ## Information
@@ -125,16 +125,9 @@ After that you dont need to do anything else. This message will show up even if 
 
 <img src="other/pics/sendmessagefalse.PNG?raw=true">
 
-## Coming Soon
+## Badges
 
-We have already planned many things and would like to proudly show and explain what we have in mind.
-
-- Unsecure Website Scanners | Can detect websites that are unsecure (like phishing).
-  - For that we will do an submit command whenever you found an unsecure website you can tell us and we add it.
-  - Everything is based on reactions.
-  - It will take sometimes to make a database with unsecure websites. `now finished 09.09.2020`
-
-- Logs | Will log actions like muting members.
+<img src="https://botlist.space/bot/748562664200077342/badge?property=tag">
 
 
 
