@@ -4,19 +4,19 @@ A documentation about SecurityAPI (a Discord bot).
 
 ## Contents
 
-- Information
+- [Information](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#information)
 
-- Terms of Service
+- [Terms of Service](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#terms-of-service)
 
-- Functions
+- [Functions](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#functions)
 
-- Commands
+- [Commands](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#commands)
 
-- URL Scanner
+- [URL Scanner](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#url-scanner)
 
-- Setup
+- [Setup](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#setup)
 
-- Badges
+- [Badges](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#badges)
 
 
 ## Information
