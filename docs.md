@@ -112,7 +112,7 @@ Commands|Description|
 
 - Phishing/scam: 300+
 
-- Malwares/Virus: 13 *(in progress)*
+- Malwares/Virus: 600+
 
 - URL Shrinks: 12
 
