@@ -67,7 +67,7 @@ Have any concerns? Join our [Support Server](https://discord.gg/5sBDQKN).
 ## Staff Application
 - Be a part of SecurityAPI and apply to become a Staff in our team (everything is unpaid).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfFzrFSEBjep4RGDFcQdWhAraQ4-pwOm92kXV1gryVwbdkuoA/viewform?embedded=true" width="640" height="1085" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
+[Apply here](https://forms.gle/iUdKsohUgYak7puh6)
 
 ## Functions
 
