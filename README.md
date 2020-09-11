@@ -11,6 +11,8 @@ SecurityAPI is an intelligence Discord Bot to secure your server from attacks an
 
 #### Links
 
+[![SecurityAPI's Widget](https://api.botlist.space/widget/748562664200077342/5 "SecurityAPI's Widget")](https://botlist.space/bot/748562664200077342?utm_source=bls&utm_medium=widget&utm_campaign=748562664200077342)
+
 - Bot Invite: [SecurityAPI Invite](https://discord.com/api/oauth2/authorize?client_id=748562664200077342&permissions=8&scope=bot)
 
 - Discord Server: [<img src="https://discordapp.com/api/guilds/748588988738306219/widget.png">](https://discord.gg/5sBDQKN)
