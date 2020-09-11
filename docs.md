@@ -103,13 +103,13 @@ Commands|Description|
 
 **Registered**
 
-- Phishing/scam: 400+
+- Phishing/scam: 300+
 
 - Malwares/Virus: 13 *(in progress)*
 
 - URL Shrinks: 10
 
-- IP-Logger: 4
+- IP-Logger: 16
 
 ## Setup
 
