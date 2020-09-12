@@ -55,6 +55,7 @@ The bot also helps in area of Development & Cybersecurity.
 
 _DATA COLLECTION_
 1) This bot will log if he joins a server | guild name.
+2) This bot will log if someone has started a raid/spam attack. 
 2) SecurityAPI will log if someone used the s!invite command | Username.
 
 _DATA USAGE_
