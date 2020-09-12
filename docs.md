@@ -101,17 +101,21 @@ Commands|Description|
  SecurityAPI will compare the URL with the database. If this link is received in the DB, it means that this URL is a unsecure/malwares/iploggers/virus/phishing/scam URL. The scan results are made by reactions.
 
 **Reaction Interpretation**
+
 - 🔍: The URL is being scanned.
-
-- 🟥: The URL is a malware/virus/iplogger/scam/phishing URL.
-
+            
+- 🟥: The URL is a threat. Users can be harmed.
+        
 - 🟨: The URL is unsecure (http) or is a URL Shrink.
-
+        
 - 🟥 + 💳: The URL is a scamming Website.
-
+        
 - 🟥 + 🦠: The URL is a malware/virus Website.
 
+- 🟥 + 📃: The URL is a IP-Logger.
+        
 - 🟨 + 🔓: The URL doesnt have a secure connection.
+
 
 - If there is no longer any visible reaction, it means that the URL is not a threat.
 
