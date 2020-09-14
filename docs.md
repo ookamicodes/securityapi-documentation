@@ -89,7 +89,7 @@ Commands|Description|
 |api| API information|
 |meme| Get amazing memes|
 |config| Shows all config options.|
-|muteconfig | Setup anti spam&raid.|
+|antispamconfig | Setup anti spam&raid.|
 |bin | Shows bins for your code.|
 
 > Prefix = `s!`
