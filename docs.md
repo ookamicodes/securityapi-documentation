@@ -32,7 +32,7 @@ The bot also helps in area of Development & Cybersecurity.
 
 - Bot Invite: [SecurityAPI Invite](https://discord.com/api/oauth2/authorize?client_id=748562664200077342&permissions=8&scope=bot)
 
-- Discord Server: [<img src="https://discordapp.com/api/guilds/748588988738306219/widget.png">](https://discord.gg/5sBDQKN)
+- Discord Server: [<img src="https://discordapp.com/api/guilds/748588988738306219/widget.png">](https://discord.gg/FGzCdtP)
 
 
 - Bot lists: [botlist.space](https://botlist.space/bot/748562664200077342) - [discordbotlist](https://discordbotlist.com/bots/securityapi) - [ayblisting](https://ayblisting.com/bots/748562664200077342)
@@ -63,7 +63,7 @@ _DATA USAGE_
 2) SecurityAPI will log invite command & joined guild to make sure in which target group the bot is. It also log Auto-mod actions.
 3) Only the highest Developer can access bot logs.
 
-Have any concerns? Join our [Support Server](https://discord.gg/5sBDQKN).
+Have any concerns? Join our [Support Server](https://discord.gg/FGzCdtP).
 
 ## Staff Application
 - Be a part of SecurityAPI and apply to become a Staff in our team (everything is unpaid).
