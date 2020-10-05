@@ -133,7 +133,7 @@ The URL Scanner of SecurityAPI is since the guild add active. You dont need to s
 
 #### Github
 
-https://img.shields.io/github/license/ookamicodes/securityapi-documentation
+<img src="https://img.shields.io/github/license/ookamicodes/securityapi-documentation?style=plastic">
 
 #### botlist.space
 
