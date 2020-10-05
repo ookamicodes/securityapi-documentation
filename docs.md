@@ -8,8 +8,6 @@ A documentation about SecurityAPI (a Discord bot).
 
 - [Terms of Service](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#terms-of-service)
 
-- [Staff Application / unpaid!](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#staff-application)
-
 - [Functions](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#functions)
 
 - [Commands](https://github.com/ookamicodes/securityapi-documentation/blob/master/docs.md#commands)
@@ -24,8 +22,8 @@ A documentation about SecurityAPI (a Discord bot).
 ## Information
 
 SecurityAPI is an Discord bot specialized of the security from a server.
-He defense attacks like spam/raids.
 SecurityAPI got an URL Scanner to make sure a URL is secure.
+SecurityAPI got an Exploit Scanner to find any exploit scripts and warn that user.
 The bot also helps in area of Development & Cybersecurity.
 
 ### Links
@@ -40,6 +38,8 @@ The bot also helps in area of Development & Cybersecurity.
 - Website: soon
 
 ## Terms of Service
+
+**_Bot Guideline injuries_**
 
 **Bot Tos & Privacy Policy**
 
@@ -65,32 +65,26 @@ _DATA USAGE_
 
 Have any concerns? Join our [Support Server](https://discord.gg/FGzCdtP).
 
-## Staff Application
-- Be a part of SecurityAPI and apply to become a Staff in our team (everything is unpaid).
-
-[Apply here](https://forms.gle/iUdKsohUgYak7puh6)
-
 ## Functions
 
 Functions|Description|
 |-------|-----------|
 |URL Scanner|SecurityAPI can detect URL and scans these if they are iplogger/virus/unsecure/phishing/malwares/scam Websites/URL. (BETA)|
-|Anti Spam&Raid|SecurityAPI can detect Spam&Raid attacks and will defense them.|
+|Anti Exploit Scripts|Will protect users from exploit scripts (Console Script Scam).|
 > soon more
 
 ## Commands
 Commands|Description|
 |-------|-----------|
 |help|Shows all commands from SecurityAPI|
-|scan|Shows how to interpret the scanner.|
+|scanInterpretation|Shows how to interpret the scanner.|
 |vote|Vote our bot.|
 |function|Shows all functions of the SecurityAPI.|
 |server| Server information|
+|invite| Invite our Bot|
+|support| Join our support server.|
 |api| API information|
-|meme| Get amazing memes|
 |config| Shows all config options.|
-|antispamconfig | Setup anti spam&raid.|
-|bin | Shows bins for your code.|
 
 > Prefix = `s!`
 > Example = `s!help`
@@ -131,19 +125,15 @@ Commands|Description|
 
 ## Setup
 
-SecurityAPI is really easy to setup but I will introduce here how to do that.
-
-To setup the bot and become more information type: ``` s!config```. Under the config help you will see `s!muteconfig`. This is a introducion how to setup the anti spam&raid.
+The URL Scanner of SecurityAPI is since the guild add active. You dont need to setup anything.
 
 
-Make a role named "Muted". Set that role permission "send message" to false. The bot will detect the role automatic. "Muted" needs the capital letter "M" 
-After that you dont need to do anything else. This message will show up even if you've already done everything.
-
-<img src="other/pics/mutedrole1.PNG?raw=true">
-
-<img src="other/pics/sendmessagefalse.PNG?raw=true">
 
 ## Badges
+
+#### Github
+
+https://img.shields.io/github/license/ookamicodes/securityapi-documentation
 
 #### botlist.space
 
